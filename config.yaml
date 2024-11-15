@@ -1,0 +1,65 @@
+projectName: Network Security Fundamentals
+jsonFilePath: ./input.json
+baseUrl: https://gracker.ai
+portalHeading: Network Security Fundamentals Portal
+portalDescription: >-
+  World's first AI-driven growth engine for cybersecurity B2B SaaS. Engage
+  prospects, demonstrate expertise, and fuel expansion through customized,
+  data-backed content strategies.
+portalTitle: Network Security Fundamentals - AI-Driven Growth Engine
+searchPlaceholder: Search for cybersecurity insights...
+useAlphabetsCategory: true
+homeLink: https://gracker.ai/
+logoLink: https://gracker.ai/
+ctaText: Get Started
+aboutLink: https://gracker.ai/about
+productsLink: https://gracker.ai/products
+logoImgUrl: https://gracker.ai/logo.png
+ctaLink: https://gracker.ai/get-started
+copyrightText: © 2023 Gracker. All rights reserved.
+faviconUrl: https://gracker.ai/favicon.ico
+googleTagManagerId: ''
+pagesTitle:
+  prefix: ''
+  suffix: ''
+categoryPagesTitle:
+  prefix: ''
+  suffix: ''
+templateRoot:
+  - ./templates
+  - ./templates
+homeTemplatePath: ./templates/homePageTemplate.ejs
+categoryTemplatePath: ./templates/categoryTemplate.ejs
+pageTemplatePath: ./templates/pagesTemplate.ejs
+outputDir: ./output
+socialLinks:
+  - platform: Twitter
+    url: https://twitter.com/gracker
+  - platform: LinkedIn
+    url: https://linkedin.com/company/gracker
+  - platform: Facebook
+    url: https://facebook.com/gracker
+theme:
+  primaryColor: '#007bff'
+  secondaryColor: '#6c757d'
+  backgroundColor: '#ffffff'
+  textColor: '#212529'
+  accentColor: '#28a745'
+fonts:
+  - family: Helvetica Neue
+    weights:
+      - 400
+      - 500
+      - 600
+  - family: Arial
+    weights:
+      - 500
+      - 600
+      - 700
+data:
+  - categoryName: default
+    categorySlug: /
+    pages:
+      - pageTitle: Off-Page SEO
+      - pageTitle: Compliance
+      - pageTitle: Customer Engagement
